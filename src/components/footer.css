@@ -1,0 +1,10 @@
+.footer {
+    background-color:#2d4250;
+    border-top:2px solid;
+    position:dynamic;
+    width: 100%;
+    height:auto;
+    bottom: 0;
+    color: white ;
+    font-size: 15px;
+   }

@@ -1,0 +1,4 @@
+.edit-button:disabled{
+   cursor: not-allowed;
+   height: 2.3rem !important;
+}
